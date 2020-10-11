@@ -38,14 +38,5 @@
   </p>
 </details>
 
-<details>
-  <summary>Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 [linkedin]: https://www.linkedin.com/in/andrewgraemebrooks/
 [twitter]: https://twitter.com/AndrewBrooks0
