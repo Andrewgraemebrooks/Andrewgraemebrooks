@@ -13,7 +13,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
 <img align="left" alt="React" width="40px" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
-<img align="left" alt="Symfony" width="40px" src="https://unpkg.com/simple-icons@v3/icons/symfony.svg" />
+<img align="left" alt="Laravel" width="40px" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
 <img align="left" alt="Node" width="40px" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="MongoDB" width="40px" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />
