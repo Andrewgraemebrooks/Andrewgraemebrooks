@@ -2,23 +2,17 @@
 
 ## Full Stack Web Developer.
 
-#### I'm a Computer Science (BSc) Graduate with First Class Honours (1:1) from De Montfort University, Leicester.
-
-#### I am a full-stack web developer, with a focus on responsive web applications using third-party APIs paired with the latest technologies.
+### I am a full-stack web developer, with a focus on responsive web applications using third-party APIs paired with the latest technologies.
 
 ## Languages and Tools:
 
+<img align="left" alt="Laravel" width="40px" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
+<img align="left" alt="React" width="40px" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="PHP" width="40px" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="React" width="40px" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
-<img align="left" alt="Laravel" width="40px" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
-<img align="left" alt="Node" width="40px" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />
-<img align="left" alt="MongoDB" width="40px" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />
-<img align="left" alt="Git" width="40px" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="Github" width="40px" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
 
 <br />
 <br />
