@@ -19,7 +19,6 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAndrewBrooks0&color=white" />][twitter]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge&color=white">][linkedin]
 <br />
 <br />
@@ -33,4 +32,3 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/andrewgraemebrooks/
-[twitter]: https://twitter.com/AndrewBrooks0
