@@ -6,9 +6,9 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="Laravel" width="40px" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
 <img align="left" alt="React" width="40px" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="Laravel" width="40px" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
 <img align="left" alt="PHP" width="40px" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
