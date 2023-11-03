@@ -26,10 +26,10 @@
 
 <details open>
   <summary>GitHub Stats</summary>
-  <p>
+  <div style="display:flex">
     <img alt="Andrew's GitHub Stats" height=200 src="https://github-readme-stats-mu-amber-34.vercel.app/api?username=andrewgraemebrooks&show_icons=true&theme=graywhite" />
     <img alt="Andrew's Top Languages" height=200 src = "https://github-readme-stats-mu-amber-34.vercel.app/api/top-langs/?username=andrewgraemebrooks&hide=css,java,html&theme=graywhite">
-  </p>
+  </div>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/andrewgraemebrooks/
