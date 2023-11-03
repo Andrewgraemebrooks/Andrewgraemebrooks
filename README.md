@@ -28,7 +28,7 @@
   <summary>GitHub Stats</summary>
   <p>
     <img alt="Andrew's GitHub Stats" src="https://github-readme-stats-mu-amber-34.vercel.app/api?username=andrewgraemebrooks&show_icons=true&theme=graywhite&count_private=true&hide=stars,issues,contribs" />
-    <img alt="Andrew's Top Languages" height="165" src="https://github-readme-stats-mu-amber-34.vercel.app/api/top-langs/?username=andrewgraemebrooks&hide=css,java,html&theme=graywhite&layout=compact" />
+    <img alt="Andrew's Top Languages" height="163" src="https://github-readme-stats-mu-amber-34.vercel.app/api/top-langs/?username=andrewgraemebrooks&hide=css,java,html&theme=graywhite&layout=compact" />
   </p>
 </details>
 
