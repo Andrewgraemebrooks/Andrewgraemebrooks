@@ -16,7 +16,6 @@
 - MySQL
 - HTML
 - CSS
-<br />
 
 ## Connect with me:
 
