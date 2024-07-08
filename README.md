@@ -6,10 +6,11 @@
 
 ## Languages and Tools:
 
+- Laravel
 - React
 - React Native
 - Vue.js
-- Laravel
+- Angular
 - Javascript
 - PHP
 - Jira
